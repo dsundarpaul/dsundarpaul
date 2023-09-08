@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a competitive education game idea.<br>👯 I’m looking to collaborate on any domain.<br>🤝 I’m looking for help with System Design and Cloud architecture<br>🌱 I’m currently learning Cloud Technologies and automation.<br>💬 Ask me about Javascript, TypeScript, Node, Express, Reactjs, and Firebase.<br>⚡ Fun fact, I am 21.
+🔭 I’m currently working on React and React Native<br>👯 I’m looking to collaborate on any domain.<br>🤝 I’m looking for help with System Design and Cloud architecture<br>🌱 I’m currently learning everything about Cloud Technologies and automation.<br>💬 Ask me about Javascript, TypeScript, Node, Express, Reactjs, and Firebase.<br>⚡ Fun fact, I am 21.
 
 
 ## 🌐 Socials:
